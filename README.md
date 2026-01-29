@@ -1,4 +1,4 @@
-# Lab02-ECE230L
+# Lab02-ECE230L - Mark Moorefield - Jack Elliott
 Lab report for Lab #2 
 
 # Lab Summary
